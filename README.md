@@ -5,13 +5,14 @@
 </a>
 
 
-I'm an undergradute Studets Electronics engineer [@UIT](https://www.uit.edu/) from Pakistan, currently I am a Research Internee 👨🏽‍💼[@MERL-UIT](https://github.com/merledu).
+I'm an undergradute Studet in Electronics engineer [@UIT](https://www.uit.edu/) from Pakistan, currently I am a Research Internee 👨🏽‍💼[@MERL-UIT](https://github.com/merledu).
 
  <img width="40%" src="https://github.com/Nameer-Iqbal-Ansari/Nameer-Iqbal-Ansari/blob/main/image_processing20210908-11991-7bi2p8.gif" align="right" />
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on RISC-V, Graphics designing, An open source project and also giving home/online Tuitions.
+- 👨🏽‍💻 I’m currently working on RISC-V, An open source project and also giving home/online Tuitions.
+- ![image](https://user-images.githubusercontent.com/81433387/158686125-ec3f8fa0-2b3a-48d0-af75-1427a3b21e5f.png) I’m currently working as content creator on youtube
 - 🌱 I’m currently learning new things like NFTS, Metaverse etc.
 - 💬 2022 Goals: Contribute more to Open Source projects.
 - ⚡️ Fun-Fact: other than above I write for myself, Watch Cricket, Plays football and watch thriller movies.
