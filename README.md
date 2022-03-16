@@ -18,7 +18,7 @@ I'm an undergradute Studet in Electronics engineer [@UIT](https://www.uit.edu/) 
 - 💬 2022 Goals: Contribute more to Open Source projects.
 - ⚡️ Fun-Fact: other than above I write for myself, Watch Cricket, Plays football and watch thriller movies.
 - 📫 How to reach me: muheetghani71@gmail.com.
-- 📝[Resume](https://github.com/Nameer-Iqbal-Ansari/Nameer-Iqbal-Ansari/blob/main/nameer's%20resume.pdf)
+- 📝[Resume](https://github.com/Abdul-muheet-ghani/Abdul-muheet-ghani/blob/main/Abdul%20Muheet%20Ghani%20CV(1).pdf)
 
 **Languages and Tools:**  
 
