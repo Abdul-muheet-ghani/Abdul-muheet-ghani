@@ -22,8 +22,8 @@ I'm an undergradute Studet in Electronics engineer [@UIT](https://www.uit.edu/) 
 
 ## &#x1f4c8; GitHub Stats
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Nameer-Iqbal-Ansari&count_public=true&&count_private=true&show_icons=true&theme=radical&&include_all_commits=true" width=60% />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nameer-Iqbal-Ansari&count_private=true&theme=radical" width="40%">
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Nameer-Iqbal-Ansari&theme=radical"  width=60% />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Abdul-Muheet-Ghani&count_public=true&&count_private=true&show_icons=true&theme=radical&&include_all_commits=true" width=60% />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Muheet-Ghani&count_private=true&theme=radical" width="40%">
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul-Muheet-Ghani&theme=radical"  width=60% />
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Nameer-Iqbal-Ansari&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Abdul-Muheet-Ghani&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
