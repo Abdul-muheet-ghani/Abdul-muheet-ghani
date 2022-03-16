@@ -20,17 +20,6 @@ I'm an undergradute Studet in Electronics engineer [@UIT](https://www.uit.edu/) 
 - 📫 How to reach me: muheetghani71@gmail.com.
 - 📝[Resume](https://github.com/Abdul-muheet-ghani/Abdul-muheet-ghani/blob/main/Abdul%20Muheet%20Ghani%20CV(1).pdf)
 
-**Languages and Tools:**  
-
-<code><img align="center" width="30px" height="30px" src="https://github.com/Nameer-Iqbal-Ansari/Nameer-Iqbal-Ansari/blob/main/c%2B%2B.png"></code>
-<code><img align="center" width="40px" height="30px" src="https://github.com/Nameer-Iqbal-Ansari/Nameer-Iqbal-Ansari/blob/main/multisim.jpg"></code>
-<code><img align="center" width="30px" height="30px" src="https://github.com/Nameer-Iqbal-Ansari/Nameer-Iqbal-Ansari/blob/main/ps.jpg"></code>
-![RISC-V](https://img.shields.io/badge/RISCV-011E41?style=flat-square&logo=RISCV&logoColor=white)
-<code><img align="center" width="30px" height="30px" src="https://github.com/Nameer-Iqbal-Ansari/Nameer-Iqbal-Ansari/blob/main/si.png"></code>
-<code><img align="center" width="50px" height="30px" src="https://github.com/Nameer-Iqbal-Ansari/Nameer-Iqbal-Ansari/blob/main/systemv.jpg"></code>
-<code><img align="center" width="50px" height="30px" src="https://github.com/Nameer-Iqbal-Ansari/Nameer-Iqbal-Ansari/blob/main/vs.jpg"></code>
-<code><img align="center" width="50px" height="30px" src="https://github.com/Nameer-Iqbal-Ansari/Nameer-Iqbal-Ansari/blob/main/xilinx.png"></code>
-
 ## &#x1f4c8; GitHub Stats
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Nameer-Iqbal-Ansari&count_public=true&&count_private=true&show_icons=true&theme=radical&&include_all_commits=true" width=60% />
