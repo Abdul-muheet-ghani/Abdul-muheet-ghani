@@ -13,10 +13,11 @@ I'm an undergradute Studet in Electronics engineer [@UIT](https://www.uit.edu/) 
 
 - 👨🏽‍💻 I’m currently working on RISC-V, An open source project and also giving home/online Tuitions.
 - :man_teacher: I’m currently working as content creator on youtube
-- 🌱 I’m currently learning new things like NFTS, Metaverse etc.
+- :new: I’m currently learning new things like Industrial Automation, SEO.
+- :man_health_worker: also I am Ambassodar of Industial Automation
 - 💬 2022 Goals: Contribute more to Open Source projects.
 - ⚡️ Fun-Fact: other than above I write for myself, Watch Cricket, Plays football and watch thriller movies.
-- 📫 How to reach me: n.i.ansari200@gmail.com.
+- 📫 How to reach me: muheetghani71@gmail.com.
 - 📝[Resume](https://github.com/Nameer-Iqbal-Ansari/Nameer-Iqbal-Ansari/blob/main/nameer's%20resume.pdf)
 
 **Languages and Tools:**  
