@@ -1,5 +1,7 @@
 # Hey 👋🏽, This is Abdul Muheet Ghani.
 
+## Programmeer || Hardware Designer || Verification
+
 <a href="https://www.linkedin.com/in/abdul-muheet-ghani-57a01a204/">
   <img align="center" alt="Nameer's linkedin" width="30px" height="30px" src="https://github.com/Nameer-Iqbal-Ansari/Nameer-Iqbal-Ansari/blob/main/li.png" />
 </a>
