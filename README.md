@@ -2,12 +2,14 @@
 
 ## Programmeer || Hardware Designer || Verification
 
+
+I'm an undergradute Studet in Electronics engineer [@UIT](https://www.uit.edu/) from Pakistan, currently I am a Research Internee 👨🏽‍💼[@MERL-UIT](https://github.com/merledu).
+
+My name is Abdul Muheet Ghani, I'm an open source enthusiast living in Karachi/Pakistan. I'm interested in all things about technology, from low level hardware, FPGAs and infrastructure to Verification development in a multitude of languages like Verilog, SystemVerilog, OOP, C++ and many more.
+
 <a href="https://www.linkedin.com/in/abdul-muheet-ghani-57a01a204/">
   <img align="center" alt="Nameer's linkedin" width="30px" height="30px" src="https://github.com/Nameer-Iqbal-Ansari/Nameer-Iqbal-Ansari/blob/main/li.png" />
 </a>
-
-
-I'm an undergradute Studet in Electronics engineer [@UIT](https://www.uit.edu/) from Pakistan, currently I am a Research Internee 👨🏽‍💼[@MERL-UIT](https://github.com/merledu).
 
  <img width="40%" src="https://github.com/Nameer-Iqbal-Ansari/Nameer-Iqbal-Ansari/blob/main/image_processing20210908-11991-7bi2p8.gif" align="right" />
   
