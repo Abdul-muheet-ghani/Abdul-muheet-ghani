@@ -37,3 +37,8 @@ My name is Abdul Muheet Ghani, I'm an open source enthusiast living in Karachi/P
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul-Muheet-Ghani&theme=radical"  width=60% />
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Abdul-Muheet-Ghani&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Abdul-muheet-ghani/count.svg" />
+</p>
