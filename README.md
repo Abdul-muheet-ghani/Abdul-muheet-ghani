@@ -1,6 +1,6 @@
 # Hey 👋🏽, This is Abdul Muheet Ghani.
 
-## Programmeer || Hardware Designer || Verification
+## Programmer || Hardware Designer || Verification
 
 I'm an undergradute Studet in Electronics engineer [@UIT](https://www.uit.edu/) from Pakistan, currently I am a Research Internee 👨🏽‍💼[@MERL-UIT](https://github.com/merledu).
 
