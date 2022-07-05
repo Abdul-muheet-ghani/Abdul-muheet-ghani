@@ -16,7 +16,7 @@ My name is Abdul Muheet Ghani, I'm an open source enthusiast living in Karachi/P
 - :man_health_worker: also I am Ambassodar of Industial Automation
 - 💬 2022 Goals: Contribute more to Open Source projects.
 - ⚡️ Fun-Fact: other than above I write for myself, Watch Cricket, Plays football and watch thriller movies.
-- 📫 How to reach me: muheetghani71@gmail.com.
+- 📫 How to reach me : muheetghani71@gmail.com.
 - 📝[Resume](https://github.com/Abdul-muheet-ghani/Abdul-muheet-ghani/blob/main/Abdul%20Muheet%20Ghani%20CV(1).pdf)
 
 <h3 align="left">Connect with me:</h3>
