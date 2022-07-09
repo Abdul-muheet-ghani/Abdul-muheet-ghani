@@ -1,6 +1,6 @@
 # Hey 👋🏽, This is Abdul Muheet Ghani.
 
-## Programmer || Hardware Designer || Verification || AWS-FPGA || UVM
+## Hardware Designer || Verification || AWS-FPGA || UVM
 
 I'm an undergradute Studet in Electronics engineer [@UIT](https://www.uit.edu/) from Pakistan, currently I am a Research Internee 👨🏽‍💼[@MERL-UIT](https://github.com/merledu).
 
