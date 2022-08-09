@@ -10,7 +10,7 @@ My name is Abdul Muheet Ghani, I'm an open source enthusiast living in Karachi/P
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on RISC-V, An open source project and also giving home/online Tuitions.
+- 👨🏽‍💻 I’m currently working on RISC-V ISA project.
 - :man_teacher: I’m currently working as content creator on youtube
 - :new: I’m currently learning new things like Industrial Automation, SEO.
 - :man_health_worker: also I am Ambassodar of Industial Automation
