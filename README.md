@@ -1,6 +1,6 @@
 # Hey 👋🏽, This is Abdul Muheet Ghani.
 
-## RISC-V || Hardware Designer || Verification || AWS-FPGA || UVM
+## RISC-V || Kernal Booting || UVM || Hardware Designer || AWS-FPGA || SoC
 
 I'm an undergradute Studet in Electronics engineer [@UIT](https://www.uit.edu/) from Pakistan, currently I am a Research Internee 👨🏽‍💼[@MERL-UIT](https://github.com/merledu).
 
