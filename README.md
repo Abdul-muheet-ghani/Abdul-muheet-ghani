@@ -2,8 +2,6 @@
 
 ## RISC-V || Kernal Booting || UVM || Hardware Designer || AWS-FPGA || SoC || Zephyr
 
-I'm an undergradute Studet in Electronics engineer [@UIT](https://www.uit.edu/) from Pakistan, currently I am a Research Internee 👨🏽‍💼[@MERL-UIT](https://github.com/merledu).
-
 My name is Abdul Muheet Ghani, I'm an open source enthusiast living in Karachi/Pakistan. I'm interested in all things about technology, from low level hardware, FPGAs and infrastructure to Verification development in a multitude of languages like Verilog, SystemVerilog, OOP, C++ and many more.
 
 <img width="40%" src="Yy7O.gif" align="right" />
@@ -17,7 +15,6 @@ My name is Abdul Muheet Ghani, I'm an open source enthusiast living in Karachi/P
 - 💬 2022 Goals: Contribute more to Open Source projects.
 - ⚡️ Fun-Fact: other than above I write for myself, Watch Cricket, Plays football and watch thriller movies.
 - 📫 How to reach me : muheetghani71@gmail.com.
-- 📝[Resume](https://github.com/Abdul-muheet-ghani/Abdul-muheet-ghani/blob/main/Abdul%20Muheet%20Ghani%20CV(1).pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
