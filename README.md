@@ -6,14 +6,6 @@ My name is Abdul Muheet Ghani, I'm an open source enthusiast living in Karachi/P
 
 <img width="40%" src="Yy7O.gif" align="right" />
 
-**Talking about Personal Stuffs:**
-
-- 👨🏽‍💻 I’m currently working on RISC-V ISA project.
-- :man_teacher: I’m currently working as content creator on youtube
-- :new: I’m currently learning new things like Industrial Automation, SEO.
-- :man_health_worker: also I am Ambassodar of Industial Automation
-- 💬 2022 Goals: Contribute more to Open Source projects.
-- ⚡️ Fun-Fact: other than above I write for myself, Watch Cricket, Plays football and watch thriller movies.
 - 📫 How to reach me : abulmuheetghani4@gmail.com.
 
 <h3 align="left">Connect with me:</h3>
