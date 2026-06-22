@@ -1,32 +1,50 @@
-# Hey 👋🏽, This is Abdul Muheet Ghani.
+# Wavefront — deploy guide
 
-## RISC-V || Kernal Booting || UVM || Hardware Designer || AWS-FPGA || SoC || Zephyr
+This folder is a complete, ready-to-deploy site:
 
-My name is Abdul Muheet Ghani, I'm an open source enthusiast living in Karachi/Pakistan. I'm interested in all things about technology, from low level hardware, FPGAs and infrastructure to Verification development in a multitude of languages like Verilog, SystemVerilog, OOP, C++ and many more.
+```
+wavefront-site/
+├── index.html        ← the website
+├── api/
+│   └── analyze.js    ← serverless function that calls Claude (keeps your API key secret)
+├── vercel.json        ← config
+└── README.md
+```
 
-<img width="40%" src="Yy7O.gif" align="right" />
+## 1. Get an Anthropic API key
 
-- 📫 How to reach me : abulmuheetghani4@gmail.com.
+Go to https://console.anthropic.com → API Keys → Create Key.
+Keep this secret — never put it in index.html or any frontend file.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/muheetghani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muheetghani" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abdul muheet ghani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdul muheet ghani" height="30" width="40" /></a>
-<a href="https://fb.com/muheet ghani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muheet ghani" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/electrical engineering guide" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="electrical engineering guide" height="30" width="40" /></a>
-</p>
+## 2. Deploy to Vercel (free)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
+**Option A — no command line, using GitHub:**
+1. Create a new GitHub repo and push this folder to it.
+2. Go to https://vercel.com → "Add New Project" → import that repo.
+3. Before deploying, click "Environment Variables" and add:
+   - Key: `ANTHROPIC_API_KEY`
+   - Value: (paste your key from step 1)
+4. Click Deploy. Vercel gives you a live URL like `your-project.vercel.app`.
 
-## &#x1f4c8; GitHub Stats
+**Option B — command line:**
+```bash
+npm install -g vercel
+cd wavefront-site
+vercel
+# follow the prompts to create/link a project
+vercel env add ANTHROPIC_API_KEY
+# paste your key when prompted
+vercel --prod
+```
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Abdul-Muheet-Ghani&count_public=true&&count_private=true&show_icons=true&theme=radical&&include_all_commits=true" width=60% ><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Muheet-Ghani&count_private=true&theme=radical" width="35%">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul-Muheet-Ghani&theme=radical"  width=60% />
+## 3. Test it
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Abdul-Muheet-Ghani&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
+Open your deployed URL, go to either tab, upload a real `.v`/`.sv` file (and a spec PDF for the compliance tab), and click the run button. The browser reads the file, sends the extracted text to `/api/analyze`, which calls Claude server-side and returns structured JSON that renders into the cards.
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Abdul-muheet-ghani/count.svg" />
-</p>
+## Notes & limits
+
+- RTL text is truncated to ~15,000 characters per request (~10,000 for compliance mode) to keep prompts reasonable. Very large multi-thousand-line designs will be cut off — for those, split into focused per-module uploads.
+- Each "generate" click is a single API call billed per Anthropic's standard token pricing (see https://www.anthropic.com/pricing).
+- The function in `api/analyze.js` uses `claude-sonnet-4-6`. You can swap the model string if you want a faster/cheaper or more capable model.
+- CORS is not an issue here since the frontend and API route are served from the same origin.
+- If you ever need to rotate your key, update the `ANTHROPIC_API_KEY` environment variable in your Vercel project settings — no code changes needed.
